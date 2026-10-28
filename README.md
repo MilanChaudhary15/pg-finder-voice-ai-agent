@@ -60,7 +60,7 @@ Demo video: To be added.
 - `README.md` — Project overview, features, and limitations.
 - `docs/system-prompt.md` — Agent prompt documentation.
 - `docs/testing-report.md` — Test scenarios and observations.
-- `knowledge-base/` — Non-confidential service information and FAQs used by the agent.
+- `knowledge-base/PG_Finder_Service_Information_and_FAQs.pdf` — Service information and FAQs used by the agent.
 
 ## Disclaimer
 
